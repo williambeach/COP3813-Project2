@@ -1,0 +1,17 @@
+@media screen and (max-width: 575px) {
+    #logo {
+        text-align: center;
+    }
+    .page_title{
+        text-align: center;
+    }
+}
+
+#homework:hover, #projects:hover{
+    opacity: 0.8;
+}
+
+#homework:active, #projects:active{
+    transform: scale(0.9,0.9);
+}
+
